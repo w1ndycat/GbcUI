@@ -1,7 +1,7 @@
 # GbcUI·Girls Band Cry UI资源包
 
 ## Contributers·贡献者
-***uB1nlR & Polarization***
+***uB1nlR & Polarization and w1ndycat***
 
 ## Version·版本
 >**Alpha0.1-2025/02/28**  
